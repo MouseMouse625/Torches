@@ -1,0 +1,1 @@
+Here you can find the models of 2 torches in CAD. There are .STEP, .STL, and .GLB/.GLTF files for each model.
